@@ -1,0 +1,31 @@
+[ {
+  "uid" : "337506aeaecfe280",
+  "name" : "test_set_se[test_002-123]",
+  "time" : {
+    "start" : 1587390647657,
+    "stop" : 1587390660041,
+    "duration" : 12384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e387464f05a531c",
+  "name" : "test_set_se[test_001-电量]",
+  "time" : {
+    "start" : 1587390669712,
+    "stop" : 1587390679505,
+    "duration" : 9793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "111fe91fe135167a",
+  "name" : "test_set_se[test_003-@#$%^]",
+  "time" : {
+    "start" : 1587390660081,
+    "stop" : 1587390669702,
+    "duration" : 9621
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "USER-20170403ZJ",
+    "children" : [ {
+      "name" : "2436-MainThread",
+      "children" : [ {
+        "name" : "test_set_se[test_001-电量]",
+        "uid" : "6e387464f05a531c",
+        "parentUid" : "97c1774da19f73b34e7b331f95bb63ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587390669712,
+          "stop" : 1587390679505,
+          "duration" : 9793
+        },
+        "flaky" : true,
+        "parameters" : [ "'test_001'", "'电量'" ]
+      }, {
+        "name" : "test_set_se[test_002-123]",
+        "uid" : "337506aeaecfe280",
+        "parentUid" : "97c1774da19f73b34e7b331f95bb63ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587390647657,
+          "stop" : 1587390660041,
+          "duration" : 12384
+        },
+        "flaky" : true,
+        "parameters" : [ "'test_002'", "'123'" ]
+      }, {
+        "name" : "test_set_se[test_003-@#$%^]",
+        "uid" : "111fe91fe135167a",
+        "parentUid" : "97c1774da19f73b34e7b331f95bb63ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587390660081,
+          "stop" : 1587390669702,
+          "duration" : 9621
+        },
+        "flaky" : true,
+        "parameters" : [ "'test_003'", "'@#$%^'" ]
+      } ],
+      "uid" : "97c1774da19f73b34e7b331f95bb63ff"
+    } ],
+    "uid" : "f0bbde954f2a452152b8043d4a3d6ba0"
+  } ]
+}

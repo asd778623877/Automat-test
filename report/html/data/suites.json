@@ -1,0 +1,53 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_setting",
+      "children" : [ {
+        "name" : "Test_set",
+        "children" : [ {
+          "name" : "test_set_se[test_002-123]",
+          "uid" : "337506aeaecfe280",
+          "parentUid" : "2d765df4377473963937ed07882bc310",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587390647657,
+            "stop" : 1587390660041,
+            "duration" : 12384
+          },
+          "flaky" : true,
+          "parameters" : [ "'test_002'", "'123'" ]
+        }, {
+          "name" : "test_set_se[test_003-@#$%^]",
+          "uid" : "111fe91fe135167a",
+          "parentUid" : "2d765df4377473963937ed07882bc310",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587390660081,
+            "stop" : 1587390669702,
+            "duration" : 9621
+          },
+          "flaky" : true,
+          "parameters" : [ "'test_003'", "'@#$%^'" ]
+        }, {
+          "name" : "test_set_se[test_001-电量]",
+          "uid" : "6e387464f05a531c",
+          "parentUid" : "2d765df4377473963937ed07882bc310",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587390669712,
+            "stop" : 1587390679505,
+            "duration" : 9793
+          },
+          "flaky" : true,
+          "parameters" : [ "'test_001'", "'电量'" ]
+        } ],
+        "uid" : "2d765df4377473963937ed07882bc310"
+      } ],
+      "uid" : "f2b9e55c526f344a3b152267ab1335f1"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

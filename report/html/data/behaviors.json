@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_set_se[test_002-123]",
+    "uid" : "337506aeaecfe280",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587390647657,
+      "stop" : 1587390660041,
+      "duration" : 12384
+    },
+    "flaky" : true,
+    "parameters" : [ "'test_002'", "'123'" ]
+  }, {
+    "name" : "test_set_se[test_003-@#$%^]",
+    "uid" : "111fe91fe135167a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587390660081,
+      "stop" : 1587390669702,
+      "duration" : 9621
+    },
+    "flaky" : true,
+    "parameters" : [ "'test_003'", "'@#$%^'" ]
+  }, {
+    "name" : "test_set_se[test_001-电量]",
+    "uid" : "6e387464f05a531c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587390669712,
+      "stop" : 1587390679505,
+      "duration" : 9793
+    },
+    "flaky" : true,
+    "parameters" : [ "'test_001'", "'电量'" ]
+  } ]
+}
